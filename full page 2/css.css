@@ -1,0 +1,118 @@
+.body{
+    background-image: url('body.jpg');
+    background-size: cover;
+
+    margin: 20px;
+}
+.h{
+    background-color: transparent;
+    border: none;
+   margin-left: 30px;
+    color: rgb(249, 6, 6);
+    margin-right: 220px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hh{
+    text-align: center ;
+    gap: 10px;
+    background-color: transparent;  
+}
+.m{
+    border: none;
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: white;
+}
+.search{
+    border-radius: 20px;
+    background-color: white;
+color: red;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+/* -webkit-text-stroke: 0.5px black;
+ */}
+.heading{
+
+margin: 20px;
+}
+.visit{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.new{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+color: white;
+}
+.bb{
+    border-radius: 15px;
+}
+.z{
+    margin-right:60px ;
+    width: 300px;
+    margin-left: 20px;
+    color: white;
+}
+.zz{
+    margin-right:90px;
+    width:300 px;
+    color: white;
+}
+.kkk{
+    text-align: center;
+    text-align: justify;
+    margin-right: 30px;
+    color: white;
+    
+
+}
+.l{
+    gap: 10px;
+}
+.q{
+font-size: 12px;
+color: white;
+}
+.why{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+mar
+}
+.qq{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: end;
+    margin-left: ;
+}
+.nn{
+    width: 250px;
+    text-align: justify;
+    font-size: 13px;
+    color: white;
+
+    margin-left: 10px;
+}
+.exp{
+    font-size: 70px;
+    color: aliceblue;
+}
+.qq{
+    font-size: 50px;
+    color: ;
+}
+.mkmk{
+    margin-left: 240px;
+}
+.ml{
+    margin: px;
+}
+.bb{
+    margin-top: 40px;
+    color: white;
+    gap: 10px;
+    margin-left:20px ;
+    
+}
+.lo{
+    margin-right: 50px;
+    
+}

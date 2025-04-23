@@ -1,0 +1,72 @@
+.body{
+    background-color:orange ;
+    color: white;
+}
+.carousel{
+    margin: 50px;
+    margin-top: 5px ;
+}
+.cars{
+    gap: 50px;
+    margin: 30px;
+    margin-left: 50px;
+
+}
+.imm{
+    margin-left:550px ;
+    
+}
+.button{
+    border-radius: 10px;
+    background-color: white;
+    color: orange;
+    font-weight: bold;
+    border: 0px black solid;
+    padding: 10px;
+}
+.pp{
+    margin: 40px;
+    text-align: justify;
+}
+.v{
+    gap: 35px;
+    margin-left: 50px;
+}
+.m{
+    border-radius: 30px;
+}
+.nn{
+    border-radius: 30px;
+}
+.bb{
+    color: black;
+    background-color: transparent;
+    border: none;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.ll{
+margin-top: 45px;
+
+}
+.super{
+    margin-left: 50px;
+    padding: 10px;
+    gap: 50px;
+    
+}
+.super:hover{
+    background-color: rgba(239, 232, 232, 0.756);
+    color: white;
+    transform: scale(1.1);
+}
+.premium{
+    margin-left: 50px;
+    padding: 10px;
+}
+.premium:hover{
+    background-color: rgba(239, 232, 232, 0.756);
+    color: white;
+    transform: scale(1.1);
+}
+    

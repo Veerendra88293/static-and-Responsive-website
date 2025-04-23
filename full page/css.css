@@ -1,0 +1,292 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+.button{
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button:hover{
+    color: red;
+}
+.heading:hover{
+    transform: scale(1.1);
+    color: black;
+}
+.heading{
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.h{
+    background-image: url("https://wallup.net/wp-content/uploads/2015/12/181485-nature-landscape-beach-hill-boat-Thailand.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin: PX;
+    color: white;
+    
+    padding: 180px;
+     
+    
+        font-family: "Rubik Mono One", monospace;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+}
+.body{
+    background-color: #eaebf0fa;
+       
+}
+.opti{
+    text-align: center;
+    border: none;
+    background-color: transparent;
+color: rgba(0, 0, 0, 0.518);
+}
+
+
+button{
+    background-color: #4CAF50; /* Green */
+    border:solid;
+    color: rgb(243, 6, 6);
+    
+    padding: 15px 32px;
+
+    
+}
+.opti1 {
+    text-align: center;
+    border: none;
+    background-color: white;
+    
+}
+.h2{
+    text-align: center;
+    padding: 20px;
+}
+.dots {
+    
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #bbb;
+    margin: 0 5px;
+    text-align: center;
+}
+
+.dot.active {
+    background-color: #333;
+    text-align: center;
+}
+.imgg {
+    margin-right: 20px;
+    
+}
+.mm{
+    margin-left: 10px;
+}
+.bt{
+    background-color: #eb0a0a; /* Green */
+    border:solid;
+    color: rgb(237, 230, 230);
+    border-radius: 40px;
+    padding: 4px 5px;
+    
+    
+}
+.inf{
+    margin-left: 50px;
+  }
+  .soc{
+    margin-left: 50px;
+  }
+  .body{
+    background-color: black;
+    color: white;
+    margin: 20px;
+  }
+  .p{
+    color: gray;
+    font-weight: bold;
+  }
+  .hhh{
+    color: white;
+  }
+  .mm{
+    margin-top: 6px;
+  }
+.p1{
+    padding:20px;
+}
+.ll{
+    margin: 10px;
+    
+}
+.x{
+    text-align: center;
+    
+}
+.v{
+    border-radius:600px ;
+    height: 70px;
+    width: 90px;
+    margin-left: 130px;
+}
+.lll{
+    margin: 20px;
+    text-align: justify;
+}
+.mk{
+    margin-left: 120px;
+}
+.lk{
+ 
+    background-image: url("https://www.themaldives.co.uk/wp-content/uploads/elementor/thumbs/maldives-holidays-qcapt3lisr880imlkwc3f4epq9vhywtmb560i0t9jc.jpg");
+
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 100vw;
+    /* position: relative; */
+    background-size: cover;
+}
+.back{
+    float : right;
+
+    
+    background-color: white;
+    width: 250px;
+    float : right;
+    margin-right: 30px;
+    padding: 13px;
+    margin-top:115px ;
+}
+.inf{
+    margin-left: 50px;
+  }
+  .soc{
+    margin-left: 50px;
+  }
+  .body1{
+    background-color: black;
+    color: white;
+    padding: 25px;
+    padding-left: 80px;
+    
+  }
+  .p{
+    color: gray;
+    font-weight: bold;
+  }
+  .hhh{
+    color: white;
+  }
+  .mm{
+    margin-top: 6px;
+  }
+  .inf{
+  margin-left: 50px;
+}
+.soc{
+  margin-left: 50px;
+}
+.body{
+  background-color: black;
+  color: white;
+  margin: 20px;
+}
+.p{
+  color: gray;
+  font-weight: bold;
+}
+.hhh{
+  color: white;
+}
+.mm{
+  margin-top: 6px;
+}
+
+.inf{
+    margin-left: 50px;
+  }
+  .soc{
+    margin-left: 50px;
+  }
+  .body{
+    background-color: black;
+    color: white;
+    margin: 20px;
+  }
+  .p{
+    color: gray;
+    font-weight: bold;
+  }
+  .hhh{
+    color: white;
+  }
+  .mm{
+    margin-top: 6px;
+  }.inf{
+    margin-left: 50px;
+  }
+  .soc{
+    margin-left: 50px;
+  }
+  .body{
+    background-color: rgb(249, 246, 246);
+    color: white;
+    margin: 20px;
+  }
+  .p{
+    color: gray;
+    font-weight: bold;
+  }
+  .hhh{
+    color: white;
+  }
+  .mm{
+    margin-top: 6px;
+  }
+  .heading{
+    columns: black;
+  }.h2{
+    color: black;
+  }
+  .x{
+    color: black;
+  }
+  .p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .ppp{
+    color: rgba(236, 231, 231, 0.678);
+  }
+  .heading:hover{
+    transform: scale(1.1);
+    color: black;
+}
+.heading{
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: black;
+}
+.thai{
+    color: black;
+}
+.mk{
+    color: black;
+    font-weight: bold;
+}

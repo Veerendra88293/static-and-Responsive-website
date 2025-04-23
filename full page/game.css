@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Lobster&family=Rubik+Mono+One&display=swap');
+.new{
+    color: rgb(255, 255, 255);
+    font-family: "Creepster", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    font-size: 55px;
+    margin-left: 10px;
+      }
+.mm{
+    margin: 20px;
+    margin-top: 50px;
+}
+.mk{
+    margin: 20px;
+}
+.navv{
+    text-align: end;
+}
+.body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/012/678/505/large_2x/abstract-futuristic-gaming-background-overlay-for-copy-space-metal-plate-wallpaper-for-live-streaming-monitor-display-vector.jpg");
+    color: white;
+    background-size: cover;
+    
+}
+.hi{
+    padding-right: 50px;
+}
+.mmm{
+    text-align: center;
+}
+.nn{
+    text-align: center;
+}
+.new{
+    color: orangered;
+}
+.btn:hover{
+    transform: scale(1.1);
+}

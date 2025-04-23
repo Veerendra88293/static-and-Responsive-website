@@ -1,0 +1,299 @@
+.b{
+    background-color: darkblue;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    
+
+    
+}
+.bb{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    
+}
+li{
+    display: inline;
+    margin-left:10px ;
+    color: black;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 10px;
+    margin-right: 10px;
+    
+    
+    
+}
+
+
+.mm{
+    margin-left: 15px;
+}
+.back{
+    background-image: url("https://hiqode.in/wp-content/uploads/2024/10/Untitled-design-36.png");
+}
+.unlock{
+    margin-top: 90px;
+    
+    margin-left: 10px;
+    
+    
+}
+.expert{
+    color: red;
+    
+}
+.text{
+    text-align: justify;
+    margin-left:20px ;
+    margin-top: 20px;
+}
+.lm{
+    margin-left: 150px;
+}
+
+.p{
+    background-color: darkblue;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    
+    
+
+    
+}
+.pp{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    margin-left: -150px;
+}
+.oo{
+    background-image: url("https://hiqode.in/wp-content/uploads/2024/11/Untitled-design-34.png");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    color: white;
+}
+.lo{
+    margin-bottom: 60px;
+    
+}
+.rr{
+    background-color:white;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: -30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    
+    
+}
+.ass{
+    text-align: center;
+    margin: 20px;
+   
+}
+.pppp{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    
+}
+.what{
+    color:red;
+}
+.hiri{
+    background-color: white;
+    box-shadow: 3px 6px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    height: 170px;
+}
+.support{
+    margin-top: 250px;
+}
+.fl{
+    margin-top: -190px;
+}
+.lkj{
+    margin-right: 50px;
+}
+.fff{
+    position: fixed;
+    bottom: 0;
+    float: right;
+   
+
+}
+.kmkm{
+    border-radius: 100%;
+}
+.get{
+    margin: 30px;
+    margin-left: 40px;
+}
+.con{
+    margin-left: 40px;
+    gap: 10px;
+    overflow: auto;
+    white-space: nowrap;
+}
+.hn{
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    padding:10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 380px;
+    margin-bottom: 10px;
+}
+.john{
+    margin-left: 20px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    height: 150px;
+    margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+}
+.lo{
+    color: blue;
+    margin-top: -20px;
+}
+.lll{
+    color: blue;
+    margin-top: -60px;
+
+}
+.op{
+    text-align: justify;
+}
+.boss{
+    margin-top: 150px;
+    background-color: lightgray;
+    padding-top: 1px;
+    margin-top: 60px;
+    
+    
+}
+.ok{
+    margin-left: 150px;
+}
+.row{
+    width:100% ;
+    
+}
+.jake{
+    text-align: center;
+    
+    margin: 20px;
+}
+.loss{
+    background-image: url("https://hiqode.in/wp-content/uploads/2024/11/HIQode-11.png");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    text-align: justify;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-left: 50px;
+border-radius: 10px;
+}
+.lop{
+    
+}
+.r{
+    margin-bottom: 30px;
+}
+.kj{
+    margin-left: 100px;
+}
+.mo{
+    font-weight: bold;
+    position: relative;
+    
+}
+.moo{
+    background-image: url("https://hiqode.in/wp-content/uploads/2024/11/Untitled-design-32.png");
+    color: white;
+    background-size: cover;
+    padding: 0px;
+    padding-top: 150px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    
+}
+.gg{
+    background-color: darkblue;
+    color: white;
+    padding: 40px;
+    padding-top: 90px;
+    margin-top: -20px;
+    
+}
+.aa{
+    text-align: center;
+    font-size: 12px;
+    
+}
+.gf{
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: -10px;
+    padding-bottom: 0;
+    padding-right: -10px;
+    padding-top: 20px;
+    padding-right: -10px;
+    width: 990px;
+    text-align: center;
+
+    
+
+}
+.rma{
+    color: red;
+    background-color: white;
+    border-radius: 3px;
+    border-color: transparent;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.rma:hover{
+    background-color: red;
+    color: white;
+}
+.bv{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    /* margin-top: -340px; */
+    position:absolute;
+    left: 50%;
+    right: 50%;
+    
+    transform:translate(0%,-50%) ;
+      
+}

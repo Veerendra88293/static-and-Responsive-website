@@ -1,0 +1,83 @@
+.body{
+    background-color: white;
+    
+}
+.imm{
+    margin-top: -34px;
+}
+.topn{
+    margin: 22px;
+}
+.b{
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+}
+.b:hover{
+    background-color: rgba(16, 16, 16, 0.724);
+    color: rgb(236, 235, 232);
+    transform: scale(1.1);
+}
+.car{
+    margin: 140px;
+    margin-top: -10px;
+    margin-bottom: 35px;
+    
+}
+.stores{
+    background-color:rgb(16, 14, 15) ;
+color: white;
+padding: 15px;
+border-radius: 14px;
+gap: 22px;
+}
+.jj{
+    gap: 20px;
+    
+}
+.o{
+    border-radius: 10px;
+}
+.hh{
+    text-align: center;
+}
+.mmm{
+    margin-right: 90px;
+}
+.kk{
+    margin-top: 30px;
+}
+.mid{
+    margin-left: 390px;
+    margin-top: 20px;
+}
+.total {
+    float: right;
+    margin-right: 50px;
+}
+.text{
+    width: 400px;
+    background-color: lightgrey;
+    margin-left: 400px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 70px;
+}
+.nn{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.hhh{
+    margin-top: 100px;
+    background-color:lightgray;
+}
+.lll{
+    margin-left: 130px;
+    margin-top: 20px;
+   
+}
+.order{
+    background-color: lightpink;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+.bb{
+    float: right;
+    margin-top: 20px;
+    gap: 40px;
+    margin-left: 20px;
+}
+.k{
+    text-align:justify ;
+}
+.kk{
+    text-align: center;
+}
+.back{
+    background-color: rgb(247, 227, 201);
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 20px;
+    margin: 10px;
+    
+}
+.llll{
+    margin-left: -1px;
+    display: grid;
+    grid-;
+}
+.container{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+}
